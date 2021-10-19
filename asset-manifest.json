@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bicycle-animation/static/css/main.45436ad7.chunk.css",
+    "main.js": "/bicycle-animation/static/js/main.a869068c.chunk.js",
+    "main.js.map": "/bicycle-animation/static/js/main.a869068c.chunk.js.map",
+    "runtime-main.js": "/bicycle-animation/static/js/runtime-main.b0e15534.js",
+    "runtime-main.js.map": "/bicycle-animation/static/js/runtime-main.b0e15534.js.map",
+    "static/js/2.6f510dcb.chunk.js": "/bicycle-animation/static/js/2.6f510dcb.chunk.js",
+    "static/js/2.6f510dcb.chunk.js.map": "/bicycle-animation/static/js/2.6f510dcb.chunk.js.map",
+    "index.html": "/bicycle-animation/index.html",
+    "static/css/main.45436ad7.chunk.css.map": "/bicycle-animation/static/css/main.45436ad7.chunk.css.map",
+    "static/js/2.6f510dcb.chunk.js.LICENSE.txt": "/bicycle-animation/static/js/2.6f510dcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0e15534.js",
+    "static/js/2.6f510dcb.chunk.js",
+    "static/css/main.45436ad7.chunk.css",
+    "static/js/main.a869068c.chunk.js"
+  ]
+}
